@@ -38,9 +38,9 @@ A proposta dessa aplicação é ligar quem deseja aprender, e quer ensinar. Sem 
 - JavaScript
 - HTML
 - CSS
-- Node.js
 - Nunjucks
 - Express 
+- SQL
 -[Figma](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
 
 ---
@@ -49,13 +49,13 @@ A proposta dessa aplicação é ligar quem deseja aprender, e quer ensinar. Sem 
 
 Podemos considerar este projeto como sendo divido em duas partes:
 
-1. Front End (past src)
-2. Back End (em construção)
+1. Front End (pasta src)
+2. Back End (pasta database)
 
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+[Git-Bash](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como _VSCode_
 
 
