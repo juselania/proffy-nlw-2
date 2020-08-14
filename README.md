@@ -41,7 +41,7 @@ A proposta dessa aplicação é ligar quem deseja aprender, e quer ensinar. Sem 
 - Nunjucks
 - Express 
 - SQL
--[Figma](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
+- [Figma](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
 
 ---
 
