@@ -2,7 +2,7 @@
 # Proffy - Next Level Week
 
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="./public/images/logo2.0.svg" width="220px" />
+    <img alt="Proffy" title="Proffy" src="./github/logo2.0.svg" width="220px" />
 </h1>
 
 **Proffy** foi um projeto desenvolvido na **Next Level Week** promovido pela Rocketseat.
@@ -13,7 +13,7 @@ A proposta dessa aplicação é ligar quem deseja aprender, e quer ensinar. Sem 
 ## Previws
 
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="./public/images/logo2.0.svg" width="220px" />
+    <img alt="Proffy" title="Proffy" src="./github/layout.png" width="220px" />
 </h1>
 <h3> Pesquisa por Proffys </h3>
 
