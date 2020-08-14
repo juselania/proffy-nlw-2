@@ -2,7 +2,7 @@
 # Proffy - Next Level Week
 
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="./github/logo2.0.svg" width="220px" />
+    <img alt="Proffy" title="Proffy" src="./github/logo2.0.svg" width="190px" />
 </h1>
 
 **Proffy** foi um projeto desenvolvido na **Next Level Week** promovido pela Rocketseat.
@@ -13,15 +13,15 @@ A proposta dessa aplicação é ligar quem deseja aprender, e quer ensinar. Sem 
 ## Previws
 
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="./github/layout.png" width="220px" />
+    <img alt="Proffy" title="Proffy" src="./github/layout.png" width="220px"heigth="220" />
 </h1>
 <h3> Pesquisa por Proffys </h3>
 
-<a href="https://gyazo.com/29a1f3ab47b527185f5a07c0865d4408"><img src="https://i.gyazo.com/29a1f3ab47b527185f5a07c0865d4408.gif" alt="Image from Gyazo" width="425"></a>
+<a href="https://gyazo.com/29a1f3ab47b527185f5a07c0865d4408"><img src="https://i.gyazo.com/29a1f3ab47b527185f5a07c0865d4408.gif" alt="Image from Gyazo" width="325"></a>
 
 <h3> Cadastro de Proffys </h3>
 
-<a href="https://gyazo.com/0a811fa80f08c3111da14ffb1427d674"><img src="https://i.gyazo.com/0a811fa80f08c3111da14ffb1427d674.gif" alt="Image from Gyazo" width="425"/></a>
+<a href="https://gyazo.com/0a811fa80f08c3111da14ffb1427d674"><img src="https://i.gyazo.com/0a811fa80f08c3111da14ffb1427d674.gif" alt="Image from Gyazo" width="325"/></a>
 
 <b>Pergunta:</b> Sobre o que é o projeto?
 
