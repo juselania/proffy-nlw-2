@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="./github/logo2.0.svg"  width="50% "/>
+    <img alt="Proffy" title="Proffy" src="./github/logo2.0.svg"  width="20% "/>
 </h1>
 
 **Proffy** foi um projeto desenvolvido na **Next Level Week** promovido pela Rocketseat.
@@ -16,7 +16,7 @@ A proposta dessa aplicação é ligar quem deseja aprender, e quer ensinar. Sem 
 </h1>
 <hr>
 
-<p align="center"> <h1>Pesquisa por Proffys</h1>
+<p align="center"> 
 <a href="https://gyazo.com/29a1f3ab47b527185f5a07c0865d4408"><img src="https://i.gyazo.com/29a1f3ab47b527185f5a07c0865d4408.gif" alt="Image from Gyazo" width="300"></a> <a href="https://gyazo.com/0a811fa80f08c3111da14ffb1427d674"><img src="https://i.gyazo.com/0a811fa80f08c3111da14ffb1427d674.gif" alt="Image from Gyazo" width="300"/></a>
  <p>
 
