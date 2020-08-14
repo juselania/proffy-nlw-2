@@ -13,9 +13,8 @@ A proposta dessa aplicação é ligar quem deseja aprender, e quer ensinar. Sem 
 ## Previws
 
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="./public/images/layout.png" width="100%" heigth="100%" />
+    <img alt="Proffy" title="Proffy" src="./public/images/logo2.0.svg" width="220px" />
 </h1>
-
 <h3> Pesquisa por Proffys </h3>
 
 <a href="https://gyazo.com/29a1f3ab47b527185f5a07c0865d4408"><img src="https://i.gyazo.com/29a1f3ab47b527185f5a07c0865d4408.gif" alt="Image from Gyazo" width="425"></a>
