@@ -17,10 +17,11 @@ A proposta dessa aplicação é ligar quem deseja aprender, e quer ensinar. Sem 
 </h1>
 <hr>
 
-<h3> Pesquisa por Proffys </h3>
+<h3 align="center" > Pesquisa por Proffys
+<a href="https://gyazo.com/29a1f3ab47b527185f5a07c0865d4408"><img src="https://i.gyazo.com/29a1f3ab47b527185f5a07c0865d4408.gif" alt="Image from Gyazo" width="300"></a> <a href="https://gyazo.com/0a811fa80f08c3111da14ffb1427d674"><img src="https://i.gyazo.com/0a811fa80f08c3111da14ffb1427d674.gif" alt="Image from Gyazo" width="300"/></a>
+ </h3>
 
-<a href="https://gyazo.com/29a1f3ab47b527185f5a07c0865d4408"><img src="https://i.gyazo.com/29a1f3ab47b527185f5a07c0865d4408.gif" alt="Image from Gyazo" width="250"></a><a href="https://gyazo.com/0a811fa80f08c3111da14ffb1427d674"><img src="https://i.gyazo.com/0a811fa80f08c3111da14ffb1427d674.gif" alt="Image from Gyazo" width="250"/></a>
-
+<hr>
 <b>Pergunta:</b> Sobre o que é o projeto?
 
 <b>Resposta:</b> A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, e quer ensinar. É possível encontrar alunos para selecionar, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!! <br>
