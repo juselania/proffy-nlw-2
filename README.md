@@ -31,7 +31,8 @@ A proposta dessa aplicação é ligar quem deseja aprender, e quer ensinar. Sem 
 
 ✅ HTML 5 <br>
 ✅ CSS 3<br>
-✅ JavaScipt<hr>
+✅ JavaScipt<br>
+✅ SQL<hr>
 
 ## Ferramentas utilizadas
 
