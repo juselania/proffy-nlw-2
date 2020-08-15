@@ -102,7 +102,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 - [Diego Fernandes, CTO e Instrutor da Rocketseat](https://github.com/diego3g)
 
 ---
+<h3 align="center">
 
-<h4 align="center">
-     [Jully Developer](https://www.instagram.com/jullydeveloper/)
-</h4>
+ [Jully Developer](https://www.instagram.com/jullydeveloper/)
+
+    
+</h3>
