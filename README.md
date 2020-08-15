@@ -32,26 +32,24 @@ A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, e
 ✅ HTML 5 <br>
 ✅ CSS 3<br>
 ✅ JavaScipt<br>
-✅ SQL<hr>
+✅ SQLite<hr>
 
 ## Ferramentas utilizadas
 
-- JavaScript
-- HTML
-- CSS
-- Nunjucks
-- Express 
-- SQL
+- [Git Bash](https://gitforwindows.org/)
+- [Node.js](https://nodejs.org/en/download/)
+- [Nunjucks](https://www.npmjs.com/package/nunjucks)
+- [SQLite](https://www.sqlite.org/download.html)
 - [Figma](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
-
+- Express 
 ---
 
 ## 🚀 Como rodar o projeto
 
 Podemos considerar este projeto como sendo divido em duas partes:
 
-1. Front End (pasta src)
-2. Back End (pasta database)
+1. Front End (pasta src/server)
+2. Back End (pasta src/database)
 
 ### Pré-requisitos
 
