@@ -5,7 +5,7 @@
 </h1>
 
 **Proffy** foi um projeto desenvolvido na **Next Level Week** promovido pela Rocketseat.
-A proposta dessa aplicação é ligar quem deseja aprender, e quer ensinar. Sem que haja nenhuma limitação de área!!
+A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, e quer ensinar. É possível encontrar alunos para selecionar, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!!
 
 <hr>
 
@@ -103,5 +103,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito por [Jully Developer](https://www.instagram.com/jullydeveloper/)
-
+<h4 align="center">
+     [Jully Developer](https://www.instagram.com/jullydeveloper/)
+</h4>
