@@ -62,7 +62,7 @@ Além disto é bom ter um editor para trabalhar com o código como _VSCode_
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/jucelania/nlw-2
+$ git clone https://github.com/jucelania/proffy-nlw-2
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd nlw-2
